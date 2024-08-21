@@ -1,0 +1,15 @@
+../Core/Src/main.c:168:5:main	15
+../Core/Src/main.c:346:6:SystemClock_Config	3
+../Core/Src/main.c:392:13:MX_CAN1_Init	2
+../Core/Src/main.c:429:13:MX_UART7_Init	2
+../Core/Src/main.c:462:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:495:13:MX_USART6_UART_Init	2
+../Core/Src/main.c:526:13:MX_DMA_Init	1
+../Core/Src/main.c:548:13:MX_GPIO_Init	1
+../Core/Src/main.c:642:6:config_CAN	1
+../Core/Src/main.c:664:6:HAL_UART_RxCpltCallback	9
+../Core/Src/main.c:719:6:parseMTData2	9
+../Core/Src/main.c:754:6:dataswapendian	3
+../Core/Src/main.c:764:6:CDC_HANDLE	1
+../Core/Src/main.c:771:6:HAL_CAN_TxMailbox1CompleteCallback	1
+../Core/Src/main.c:782:6:Error_Handler	1
